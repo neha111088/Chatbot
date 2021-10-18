@@ -1,0 +1,22 @@
+
+ what is data science?
+ Data Science is a blend of various tools, algorithms, and machine learning principles with the goal to discover hidden patterns from the raw data.
+ what is confusion matrix?
+ The confusion matrix is a 2X2 table that contains 4 outputs provided by the binary classifier. Various measures, such as error-rate, accuracy, specificity, sensitivity, precision and recall are derived from it.
+ what is supervised learning?
+ Supervised learning is the machine learning task of inferring a function from labeled training data. The training data consist of a set of training examples of algorithms such as Support Vector Machines, Regression, Naive Bayes, Decision Trees, K-nearest Neighbor Algorithm and Neural Networks
+ what is unsupervised learning
+ Unsupervised learning is a type of machine learning algorithm used to draw inferences from datasets consisting of input data without labelled responses.Algorithms: Clustering, Anomaly Detection, Neural Networks and Latent Variable Models"]
+ what is machine learning?
+ Machine Learning explores the study and construction of algorithms that can learn from and make predictions on data.it is Closely related to computational statistics Used to devise complex models and algorithms that lend themselves to a prediction which in commercial use is known as predictive analytics.
+ what is nlp
+ Natural Language Processing, or NLP for short, is broadly defined as the automatic manipulation of natural language, like speech and text, by software.
+ what is TFIDF
+ TFIDF is short for term frequency-inverse document frequency, is a numerical statistic that is intended to reflect how important a word is to a document in a collection or corpus. It is often used as a weighting factor in information retrieval and text mining.
+ what is random forest?
+ Random forest is a versatile machine learning method capable of performing both regression and classification tasks. It is also used for dimensionality reduction, treats missing values, outlier values. It is a type of ensemble learning method, where a group of weak models combine to form a powerful model.
+ what is deep learning?
+ Deep Learning is nothing but a paradigm of machine learning which has shown incredible promise in recent years. This is because of the fact that Deep Learning shows a great analogy with the functioning of the human brain.
+ what is neural netwrok?
+ A neural network in data science aims to imitate a human brain neuron, where different neurons combine together and perform a task. It learns the generalizations or patterns from data and uses this knowledge to predict output for new data, without any human intervention.
+       
